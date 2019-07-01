@@ -1,0 +1,11 @@
+{
+  "name": "milionutaiwake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Happa8/milionutaiwake.git",
+  "author": "happa8 <happa.eight@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  }
+}
